@@ -1,0 +1,5 @@
+body{
+    font-family: 'Trebuchet MS';
+    background: url('../img/homebackground.jpg') top center/cover;
+    background-attachment: fixed;
+}

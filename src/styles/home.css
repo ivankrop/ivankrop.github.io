@@ -1,0 +1,31 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    text-align: center;
+}
+.home-title{
+    font-size: 55px;
+}
+.home-input{
+    border: none;
+    padding: 5px;
+    width: 300px;
+    -webkit-box-shadow: 9px 5px 15px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 5px 15px -5px rgba(0,0,0,0.75);
+    box-shadow: 9px 5px 15px -5px rgba(0,0,0,0.75);
+}
+.home-button{
+    padding: 4.3px 7px;
+    border: none;
+    background-color: grey;
+    vertical-align:bottom;
+    color:white;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.home-button:hover{
+    background-color:white;
+    color:grey;
+}
